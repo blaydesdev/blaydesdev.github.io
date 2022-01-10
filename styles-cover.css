@@ -25,7 +25,10 @@ body {
   max-width: 42em;
 }
 
-
+.container-lucy {
+  padding-top: 150px;
+  padding-bottom: 50px;
+}
 
 /*
  * Header
